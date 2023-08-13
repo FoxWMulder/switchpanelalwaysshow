@@ -14,3 +14,5 @@ Installation
 4. In the file "...\Vivaldi\Application\*version number*\resources\vivaldi\browser.html", after the line <"link rel="stylesheet" href="style/common.css" />", add the line "<link rel="stylesheet" href="switchpanelalwaysshow.css" />"
 
 5. Enjoy! :)
+
+Tested on Vivaldi 6.0.2979.11
