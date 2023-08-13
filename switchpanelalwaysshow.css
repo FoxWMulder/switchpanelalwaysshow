@@ -1,0 +1,13 @@
+/* ---- изменение функциональности >>> */
+
+/*запрещает убирать свитчер вебпанелей*/
+.maximized #panels-container.switcher #switch, #panels-container.switcher .panel-group, .normal #panels-container.switcher #switch, #panels-container.switcher .panel-group {
+    visibility: visible !important; /*запрещает убирать свитчер вебпанелей*/
+}
+.maximized #panels-container, .normal #panels-container {
+    min-width: 32px !important; /*запрещает убирать свитчер вебпанелей*/
+}
+
+/*\запрещает убирать свитчер вебпанелей*/
+
+/* <<< изменение функциональности */
